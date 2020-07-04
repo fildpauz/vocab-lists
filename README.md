@@ -1,8 +1,8 @@
-# Vocabulary lists
+# Vocabulary lists for language learning
 
 This is a list of curated vocabulary lists for language study that I've collected as reference for testing purposes in the creation of an application that generates vocabulary words in various langauge. (Note: An earlier version of this application is described [here](http://www.roselab.sci.waseda.ac.jp/development/wqc/index.html).]
 
-I'm grateful to the following people for helping me to compile this list: David Alfter, Elena Volodina, Francis Bond, Marc Brysbaert, Mark Davies, Martin Krallinger, and Robert Reynolds.
+I'm grateful to the following people for helping me to compile this list: David Alfter, Elena Volodina, Francis Bond, Laurence Anthony, Marc Brysbaert, Mark Davies, Martin Krallinger, and Robert Reynolds.
 
 Last updated: July 4, 2020
 
