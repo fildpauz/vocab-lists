@@ -1,6 +1,10 @@
 # Vocabulary lists
 
-A list of vocabulary lists
+This is a list of curated vocabulary lists for language study that I've collected as reference for testing purposes in the creation of an application that generates vocabulary words in various langauge. (Note: An earlier version of this application is described [here](http://www.roselab.sci.waseda.ac.jp/development/wqc/index.html).]
+
+I'm grateful to the following people for helping me to compile this list: David Alfter, Elena Volodina, Francis Bond, Marc Brysbaert, Mark Davies, Martin Krallinger, and Robert Reynolds.
+
+Last updated: July 4, 2020
 
 ## Arabic
 
@@ -48,7 +52,7 @@ A list of vocabulary lists
   Frequency list based on the academic portion of Corpus of Contemporary American English (COCA)  
   Credit: Mark Davies, Dee Gardner  
 
-* Academic Word List [[information](https://www.wgtn.ac.nz/lals/resources/academicwordlist), [download](https://www.wgtn.ac.nz/lals/resources/academicwordlist/publications/awlsublists.rtf)]  
+* Academic Word List (AWL) [[information](https://www.wgtn.ac.nz/lals/resources/academicwordlist), [download](https://www.wgtn.ac.nz/lals/resources/academicwordlist/publications/awlsublists.rtf)]  
   List of 570 high frequency words found in academic texts  
   Credit: Averil Coxhead  
 
@@ -64,11 +68,11 @@ A list of vocabulary lists
   CEFR-level organized list of vocabulary items  
   Credit: Cambridge University Press  
 
-* General Service List [[information](https://en.wikipedia.org/wiki/General_Service_List)]  
+* General Service List (GSL) [[information](https://en.wikipedia.org/wiki/General_Service_List)]  
   List of 2000 high frequency words in English, as compiled by West (1953)  
   Credit: Michael West  
 
-* General Service List [[information](http://jbauman.com/aboutgsl.html), [download](http://jbauman.com/gsl.html)]  
+* General Service List (GSL) [[information](http://jbauman.com/aboutgsl.html), [download](http://jbauman.com/gsl.html)]  
   List of 2284 high frequency words in general English; slightly revised version of West's 1953 list  
   Credit: John Bauman, Brent Culligan  
 
