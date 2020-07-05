@@ -2,9 +2,9 @@
 
 This is a list of curated vocabulary lists for language study that I've collected as reference for testing purposes in the creation of an application that generates vocabulary words in various langauge. (Note: An earlier version of this application is described [here](http://www.roselab.sci.waseda.ac.jp/development/wqc/index.html).]
 
-I'm grateful to the following people for helping me to compile this list: David Alfter, Elena Volodina, Francis Bond, Laurence Anthony, Marc Brysbaert, Mark Davies, Martin Krallinger, and Robert Reynolds.
+I'm grateful to the following people for helping me to compile this list: David Alfter, Elena Volodina, Francis Bond, Laurence Anthony, Marc Brysbaert, Mark Davies, Martin Krallinger, Muranova, and Robert Reynolds.
 
-Last updated: July 4, 2020
+Last updated: July 5, 2020
 
 ## Arabic
 
@@ -64,6 +64,10 @@ Last updated: July 4, 2020
   A lexicon for English as a foreign language from the CEFRLex project  
   Credit: Luise Dürlich, Thomas François  
 
+* English Word Lists [[information](https://eflnotes.wordpress.com/english-wordlists/)]  
+  A listing of a wide variety of English word lists: "General", "Academic",  "Discipline", and "Formulaic"  
+  Credit: Various (list mainained by Muranova)  
+
 * EnglishProfile [[information](https://www.englishprofile.org/wordlists)]  
   CEFR-level organized list of vocabulary items  
   Credit: Cambridge University Press  
@@ -75,6 +79,10 @@ Last updated: July 4, 2020
 * General Service List (GSL) [[information](http://jbauman.com/aboutgsl.html), [download](http://jbauman.com/gsl.html)]  
   List of 2284 high frequency words in general English; slightly revised version of West's 1953 list  
   Credit: John Bauman, Brent Culligan  
+
+* Global Scale of English (GSE) Teacher Toolkit (Vocabulary) [[information](https://www.english.com/gse/teacher-toolkit/user/vocabulary)]  
+  Customizable vocabulary lists based on topics and grammatical categories  
+  Credit: Pearson English  
 
 * Kelly (English) [[information](http://corpus.leeds.ac.uk/serge/kelly/)]  
   Keywords for Language Learning for Young and adults alike  
@@ -160,6 +168,10 @@ Last updated: July 4, 2020
   Bilingual lists of high frequency medical terminology for various language pairings  
   Credit: Marta Villegas, Ander Intxaurrondo, Aitor Gonzalez-Agirre, Montserrat Marimon, Martin Krallinger  
 
+* Resources for Evaluation of CEFRLex [[information](https://pub.cl.uzh.ch/wiki/public/multicefrlex)]  
+  English, French, and Swedish correlated lists used in the evaluation of the various CEFRLex language lists  
+  Credit: Johannes Graen, David Alfter, Gerold Schneider  
+
 * TUFS common vocabulary list [[information](https://github.com/fcbond/tufs/tree/master/docs), [download](https://raw.githubusercontent.com/fcbond/tufs/master/tufs-vocab.tsv)]  
   Parallel list of words used in Tokyo University of Foreign Studies language teaching  
   Credit: Tokyo University of Foreign Studies (Francis Bond)  
@@ -227,6 +239,10 @@ Last updated: July 4, 2020
 * SVALex [[information](https://cental.uclouvain.be/cefrlex/svalex)]  
   A lexicon for Swedish as a foreign language from the CEFRLex project  
   Credit: Thomas François, Elena Volodina, Ildikó Pilán, Anaïs Tack  
+
+* SweLLex [[information](https://cental.uclouvain.be/cefrlex/swellex)]  
+  A lexicon for productive vocabulary for Swedish as a second/foreign language from the CEFRLex project  
+  Credit: Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell, Baptiste Degryse, Thomas François  
 
 ## Turkish
 
